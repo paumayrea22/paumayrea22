@@ -22,7 +22,7 @@ Desarrollo integral de la infraestructura de datos para un complejo deportivo de
 *   **Relacional (MySQL):** Diseño de un modelo E-R avanzado con estructuras de herencia 1:1 aplicadas a usuarios (Empleados/Clientes) y métodos de pago (Tarjetas/Efectivo/Transferencias). Script optimizado con bloques de control `TRUNCATE` automatizados para garantizar la idempotencia en cargas masivas de datos de prueba.
 *   **No Relacional (MongoDB):** Migración estratégica de entidades fuertemente vinculadas (`Gimnasios` y `Salas`) hacia una arquitectura documental flexible utilizando relaciones basadas en referencias directas (`_id`).
 *   **Explotación:** Desarrollo de informes analíticos avanzados para la toma de decisiones utilizando agregaciones complejas (`SUM`, `COUNT`) y optimización de rendimiento en ordenación mediante alias implícitos.
-*   *🔗 [Enlace al repositorio del proyecto (Próximamente)]*
+*   *🔗 [Ver Repositorio del Proyecto](https://github.com/paumayrea22/Gtn-Pau-Database-Project)*
 
 ### 2. Core de Programación en Java
 Repositorio con soluciones de lógica pura y algoritmia de este curso.
