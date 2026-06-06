@@ -29,14 +29,8 @@ Repositorio con soluciones de lógica pura y algoritmia de este curso.
 *   Estructuras de almacenamiento dinámico avanzadas (`ArrayList`, `HashMap`, conjuntos de datos únicos con `Set`).
 *   Procesamiento funcional de colecciones mediante Streams y expresiones Lambda.
 *   Mecanismos tradicionales de control de flujo y captura de excepciones genéricas mediante bloques `try-catch`.
-*   *🔗 [Enlace al repositorio de Java (Próximamente)]*
+*   *🔗 [Ver Repositorio de Java](https://github.com/paumayrea22/Java-Core-Structures-DAM)*
 
 ### 3. Lenguajes de Marcas e Intercambio de Información (LMI)
 *   Estructuración de datos masivos y ficheros de configuración utilizando XML y esquemas JSON nativos.
 *   *🔗 [Enlace al repositorio de LMI (Próximamente)]*
-
----
-
-## 🎯 Objetivos Actuales
-*   🎯 Consolidar arquitecturas backend sólidas y patrones de diseño modulares.
-*   🗣️ Obtener la certificación B2 de Inglés Técnico antes de finalizar el año.
