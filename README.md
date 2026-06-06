@@ -33,4 +33,4 @@ Repositorio con soluciones de lógica pura y algoritmia de este curso.
 
 ### 3. Lenguajes de Marcas e Intercambio de Información (LMI)
 *   Estructuración de datos masivos y ficheros de configuración utilizando XML y esquemas JSON nativos.
-*   *🔗 [Enlace al repositorio de LMI (Próximamente)]*
+*   *🔗 [Ver Repositorio de LMI](https://github.com/paumayrea22/LMI-Markup-Languages-DAM)*
